@@ -97,17 +97,17 @@ const printQuote = () => {
 
   //if statement to test if it has a citation property
   if (quote.citation) { 
-    html += '<span class="citation">' + quote.citation + '</span>';
+    html += '<span class="citation">' + quote.citation + ' </span>';
   }
 
   //if statement to check if it has a year property
   if (quote.year) {
-    html += '<span class="year">' + quote.year + '</span>';
+    html += '<span class="year">' + quote.year + ' </span>';
   }
   /***EXCEEDS EXPECTATIONS ATTEMPT - At least one additional prop prints to the page with its qote */
   //if statement to check if it has a tag property
   if (quote.tag) {
-    html += '<span class="tag">' + quote.tag + '</span>';
+    html += '<span class="tag">' + quote.tag + ' </span>';
   }
   //adds the final closing p tag to the string
   html += '</p>'; 
