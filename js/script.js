@@ -37,7 +37,8 @@ const quotes = [
   },
   {
     quote: "Human greatness does not lie in wealth or power, but in character and goodness. People are just people, and all people have faults and shortcomings, but all of us are born with a basic goodness.",
-    source: "Anne Frank"
+    source: "Anne Frank",
+    year: 1941
   },
   {
     quote: "It is only when you meet someone of a different culture from yourself that you begin to realise what your own beliefs really are.",
