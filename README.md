@@ -1,2 +1,4 @@
 # PROJECT 1 - A RANDOM QUOTE GENERATOR (TREEHOUSE FSJS TECHDEGREE)
  A random quote generator with background colour changer
+
+I am chasing the exceeds expectations grade. In this project I created the JS code to produce a random quote maker, which consisted of: creating the array of quote objects, incl the additional tag property and array of colours for the background changer, and making the three functions 1) to produce a random quote from the array (getRandomQuote), 2) to send the generated quotes to be displayed in a HTML string using if statements to check which properties are included (printQuote), and 3) to make the background change color with each new quote(bgColorChanger). I also used the setInterval() method to make the quotes refresh at 10 second intervals.
